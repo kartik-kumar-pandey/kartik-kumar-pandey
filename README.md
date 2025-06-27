@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&locale=en" alt="kartik-kumar-pandey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-kumar-pandey&" alt="kartik-kumar-pandey" /></p>
