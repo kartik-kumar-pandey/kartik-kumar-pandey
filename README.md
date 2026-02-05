@@ -1,103 +1,249 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">Aspiring Software Engineer | Turning ideas into clean, functional, and maintainable code</h3>
+<h1 align="center">Hi 👋, I'm Kartik Kumar Pandey</h1>
+
+<h3 align="center">
+A Passionate Software Developer from India | Building Modern Web Experiences
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Open+Source+Contributor;React+%7C+Node+%7C+Supabase+%7C+MongoDB;Building+for+the+future!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Full+Stack+Enthusiast;React+%7C+Node+%7C+Next.js;Competitive+Programmer;Turning+Ideas+Into+Reality!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-kumar-pandey" />
+  <img src="https://visitcount.itsvg.in/api?id=kartik-kumar-pandey-2025&icon=0&color=0" />
 </p>
 
 ---
 
-<p align="center"><b>🚀 My Mission:</b> To craft robust, scalable, and user-friendly software that makes a difference.</p>
+## 🚀 About Me
+
+- 💻 I build **responsive, scalable and user-friendly applications**
+- 🌱 Currently learning **Next.js, System Design & Cloud Technologies**
+- 🎯 Passionate about **problem solving and clean code**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, APIs**
+- 📫 Reach me at: **2k23.csai2313425@gmail.com**
+- ⚡ Fun fact: *I enjoy debugging more than gaming 😄*
 
 ---
 
-<h3 align="center">What I Do</h3>
+## 🌐 Portfolio & Profiles
+
 <p align="center">
-  <b>•</b> Design and build web applications<br/>
-  <b>•</b> Contribute to open source<br/>
-  <b>•</b> Learn and experiment with new technologies<br/>
-  <b>•</b> Collaborate and share knowledge with the community
+
+<a href="https://kartikpandey-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/kartik_pandey1101">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kartik-kumar-pandey-bhka2004/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kartik_Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">Connect with me</h3>
+## 💻 Coding Profiles Stats
+
+### 🔥 LeetCode Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-kumar-pandey-bhka2004/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Add more social links as needed -->
+  <img src="https://leetcode.card.workers.dev/kartik_pandey1101?theme=dark&font=baloo&extension=null" />
 </p>
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+## 🛠 Tech Stack
+
+### 💻 Languages
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original-wordmark.svg" alt="Supabase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-<p align="center" style="font-size: 14px;">
-  <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>React</b> • <b>Node.js</b> • <b>MongoDB</b> • <b>Supabase</b> • <b>Git</b>
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" /><br/>C
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" /><br/>C++
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" /><br/>Java
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" /><br/>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" /><br/>JavaScript
+</td>
+
+</tr>
+</table>
 </p>
 
 ---
 
+### 🚀 Frameworks & Libraries
 
-
-<h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-kumar-pandey&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" /><br/>HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" /><br/>CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" /><br/>React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" /><br/>Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind
+</td>
+
+</tr>
+</table>
 </p>
 
 ---
 
-<h3 align="center">Featured Projects</h3>
+### 🗄 Databases & Cloud
+
+<p align="center">
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" /><br/>AWS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prisma" /><br/>Prisma
+</td>
+
+</tr>
+</table>
+</p>
+
+---
+
+### 🛠 Tools
+
+<p align="center">
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" /><br/>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" /><br/>Postman
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
+</td>
+
+</tr>
+</table>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kartik-kumar-pandey&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-kumar-pandey&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Project
+
 <p align="center">
   <a href="https://github.com/kartik-kumar-pandey/File-Stashify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=react&hide_border=true" alt="File-Stashify" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=react&hide_border=true" />
   </a>
-  <!-- Add more pinned projects as needed -->
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-kumar-pandey&theme=react-dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
 
----
-
-<details>
-  <summary>📈 <b>GitHub Activity Summary</b></summary>
-  <br/>
-  - 🔭 I’m currently working on: <b>FileStashify</b> and other software projects<br/>
-  - 🌱 I’m currently learning: <b> Next.js, Cloud Functions</b><br/>
-  - 👯 I’m looking to collaborate on: <b>Open Source, React, Node.js, and Supabase projects</b><br/>
-  - 💬 Ask me about: <b>React, Node.js, Supabase, MongoDB, Clean Code</b><br/>
-  - 📫 How to reach me: <a href="mailto:kartikpandeybhka2004@gmail.com">kartikpandeybhka2004@gmail.com</a><br/>
-  - ⚡ Fun fact: <i>I love building things that make life easier!</i>
-</details>
-
-<h3 align="center">GitHub Profile Highlights</h3>
 <p align="center">
-  <!-- Trophy section removed as requested -->
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-kumar-pandey&theme=react-dark" alt="Contribution Graph" />
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
 
 ---
 
+<h3 align="center">Thanks for visiting! 😊</h3>
