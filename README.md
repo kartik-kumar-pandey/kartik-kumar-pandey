@@ -5,11 +5,21 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Full+Stack+Enthusiast;React+%7C+Node+%7C+Next.js;Competitive+Programmer;Turning+Ideas+Into+Reality!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=;AI+Enthusiast;React+%7C+Node+%7C+Next.js;Turning+Ideas+Into+Reality!" />
 </p>
 
+---
+
+## ⚡ Core Tech Snapshot
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,typescript,graphql,aws,python" height="60"/>
+</div>
+
+---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kartik-kumar-pandey-2025&icon=0&color=0" />
+<img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -26,29 +36,27 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 
 ---
 
-## 🌐 Portfolio & Profiles
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://kartikpandey-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kartik-kumar-pandey-bhka2004/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/kartik_pandey1101">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kartik-kumar-pandey-bhka2004/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kartik_Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://kartikpandey-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 💻 Coding Profiles Stats
-
-### 🔥 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcode.card.workers.dev/kartik_pandey1101?theme=dark&font=baloo&extension=null" />
@@ -63,27 +71,11 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 <p align="center">
 <table align="center">
 <tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=c" /><br/>C
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" /><br/>C++
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" /><br/>Java
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" /><br/>Python
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=javascript" /><br/>JavaScript
-</td>
-
+<td align="center"><img src="https://skillicons.dev/icons?i=c" /><br/>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br/>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" /><br/>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" /><br/>JavaScript</td>
 </tr>
 </table>
 </p>
@@ -93,39 +85,7 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ### 🚀 Frameworks & Libraries
 
 <p align="center">
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" /><br/>HTML
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" /><br/>CSS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" /><br/>React
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" /><br/>Express
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
 </p>
 
 ---
@@ -133,88 +93,47 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ### 🗄 Databases & Cloud
 
 <p align="center">
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" /><br/>AWS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=prisma" /><br/>Prisma
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,prisma" />
 </p>
 
 ---
 
-### 🛠 Tools
+## 🏆 GitHub Achievements
 
 <p align="center">
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" /><br/>Git
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" /><br/>Postman
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
-</td>
-
-</tr>
-</table>
+  <img src="https://github-trophies.vercel.app/?username=kartik-kumar-pandey&theme=onedark&no-frame=true&margin-w=10" />
 </p>
+
+
+
+---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kartik-kumar-pandey&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
-## 🏆 GitHub Trophies
+## 👾 Animated Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartik-kumar-pandey&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-kumar-pandey&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=react&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -222,16 +141,8 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 
 <p align="center">
   <a href="https://github.com/kartik-kumar-pandey/File-Stashify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-kumar-pandey&theme=react-dark" />
 </p>
 
 ---
