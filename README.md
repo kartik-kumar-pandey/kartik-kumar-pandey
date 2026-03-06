@@ -123,7 +123,7 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 <td align="center"><img src="https://skillicons.dev/icons?i=prisma" /><br/>Prisma</td>
 </tr>
 </table>
-</p>>
+</p>
 
 ---
 
