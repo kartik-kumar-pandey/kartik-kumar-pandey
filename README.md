@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Kumar Pandey</h1>
+<h1 align="center">Hi 👋, I'm Kartik</h1>
 
 <h3 align="center">
 A Passionate Software Developer from India | Building Modern Web Experiences
