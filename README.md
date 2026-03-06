@@ -12,11 +12,21 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 
 ## ⚡ Core Tech Snapshot
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,typescript,graphql,aws,python" height="60"/>
-</div>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" height="50"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="50"/><br/>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50"/><br/>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="50"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" height="50"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" height="50"/><br/>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" height="50"/><br/>Python</td>
+</tr>
+</table>
+</p>
 
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey&label=Profile%20views&color=0e75b6&style=flat" />
@@ -85,7 +95,17 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ### 🚀 Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" /><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -93,8 +113,17 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ### 🗄 Databases & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,prisma" />
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br/>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma" /><br/>Prisma</td>
+</tr>
+</table>
+</p>>
 
 ---
 
@@ -110,16 +139,14 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kartik-kumar-pandey&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ---
@@ -141,7 +168,15 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 
 <p align="center">
   <a href="https://github.com/kartik-kumar-pandey/File-Stashify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/kartik-kumar-pandey/SarvekshanSaathi">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=SarvekshanSaathi&theme=tokyonight&hide_border=true"/>
+</a>
+
+  <a href="https://github.com/kartik-kumar-pandey/SerenitySaathi">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=SerenitySaathi&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
