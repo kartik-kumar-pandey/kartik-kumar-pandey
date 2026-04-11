@@ -69,7 +69,7 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ## 💻 Coding Profiles Stats
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/kartik_pandey1101?theme=dark&font=baloo&extension=null" />
+  <img src="https://leetcard.jacoblin.cool/kartik_pandey1101?theme=dark&font=baloo&extension=null" />
 </p>
 
 ---
