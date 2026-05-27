@@ -167,8 +167,8 @@ A Passionate Software Developer from India | Building Modern Web Experiences
 ## 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/kartik-kumar-pandey/File-Stashify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/kartik-kumar-pandey/AuditPilot">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=AuditPilot&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/kartik-kumar-pandey/SarvekshanSaathi">
