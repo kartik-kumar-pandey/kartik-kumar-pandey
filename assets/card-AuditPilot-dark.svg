@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+ width="440" height="124" viewBox="0 0 440 124">
+ <rect x="1" y="1" width="438" height="122"
+ rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+ <g font-family="Arial, Helvetica, sans-serif">
+   <text x="16" y="26" font-size="13" font-weight="bold"
+     fill="#39d353">▣  AuditPilot</text>
+   <text x="16" y="51" font-size="11" fill="#c9d1d9">Advanced multi-agent audit orchestration platform</text><text x="16" y="67" font-size="11" fill="#c9d1d9">featuring 3 AI workflows for structured client</text><text x="16" y="83" font-size="11" fill="#c9d1d9">onboarding, deep vendor procurement checks, and...</text>
+   <circle cx="21" cy="98" r="4" fill="#3178c6"/>
+   <text x="31" y="102" font-size="10" fill="#8b949e">TypeScript</text>
+   <text x="158" y="102" font-size="10" fill="#8b949e">★  0</text>
+   <text x="222" y="102" font-size="10" fill="#8b949e">⑂  1</text>
+   <text x="16" y="116" font-size="8" fill="#8b949e">kartik-kumar-pandey/AuditPilot</text>
+ </g>
+</svg>
