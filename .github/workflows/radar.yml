@@ -1,0 +1,43 @@
+
+name: Update Skill Radars
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/skills.json"
+      - "scripts/generate-radar.py"
+      - ".github/workflows/radar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate radar charts
+        run: python scripts/generate-radar.py
+
+      - name: Commit updated charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet || (
+            git commit -m "Update skill radar charts" &&
+            git push
+          )
