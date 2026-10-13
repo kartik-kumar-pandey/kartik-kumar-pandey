@@ -252,7 +252,7 @@ flowchart LR
 
 <p align="center">
   <a href="https://leetcode.com/kartik_pandey1101">
-    <img src="https://leetcard.jacoblin.cool/kartik_pandey1101?theme=dark&font=baloo&ext=heatmap" alt="LeetCode profile statistics" />
+    <img src="https://leetcard.jacoblin.cool/kartik_pandey1101?theme=dark&font=baloo" alt="LeetCode profile statistics" />
   </a>
 </p>
 
