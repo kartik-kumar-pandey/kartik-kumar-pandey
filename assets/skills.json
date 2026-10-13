@@ -1,1 +1,13 @@
 
+
+{
+  "labels": [
+    "Frontend",
+    "Backend",
+    "Databases",
+    "Cloud",
+    "Languages",
+    "Problem Solving"
+  ],
+  "values": [70, 65, 60, 40, 65, 60]
+}
