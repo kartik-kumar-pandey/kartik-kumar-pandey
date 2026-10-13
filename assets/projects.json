@@ -1,0 +1,21 @@
+
+{
+  "projects": [
+    {
+      "name": "TruthChain-2.0",
+      "repository": "kartik-kumar-pandey/TruthChain-2.0"
+    },
+    {
+      "name": "AuditPilot",
+      "repository": "kartik-kumar-pandey/AuditPilot"
+    },
+    {
+      "name": "SarvekshanSaathi",
+      "repository": "kartik-kumar-pandey/SarvekshanSaathi"
+    },
+    {
+      "name": "SerenitySaathi",
+      "repository": "kartik-kumar-pandey/SerenitySaathi"
+    }
+  ]
+}
