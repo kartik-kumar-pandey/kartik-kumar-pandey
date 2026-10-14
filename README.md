@@ -27,8 +27,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22D3EE?style=flat-square&labelColor=0D1117" alt="Open to work" />
   <img src="https://img.shields.io/github/followers/kartik-kumar-pandey?style=flat-square&color=7C3AED&labelColor=0D1117&logo=github" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey" alt="Profile views" />
 </p>
+
+
 
 ---
 
