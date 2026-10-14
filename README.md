@@ -1,6 +1,8 @@
 <!-- Palette: Violet #7C3AED · Cyan #22D3EE · Lavender #A78BFA · Pink accent #F472B6 · Dark #0D1117 -->
 
 <!-- ═══════════════ HEADER (local file: assets/header.svg) ═══════════════ -->
+
+<!-- HEADER -->
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Kartik Pandey - Full-Stack Developer | AI & Blockchain Builder" />
 </p>
@@ -27,12 +29,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22D3EE?style=flat-square&labelColor=0D1117" alt="Open to work" />
   <img src="https://img.shields.io/github/followers/kartik-kumar-pandey?style=flat-square&color=7C3AED&labelColor=0D1117&logo=github" alt="GitHub followers" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey" alt="Profile views" />
 </p>
 
-
-
 ---
+
+
 
 ## 👨‍💻 About Me
 
