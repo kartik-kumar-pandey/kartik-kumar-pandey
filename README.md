@@ -31,9 +31,11 @@
   <img src="https://img.shields.io/github/followers/kartik-kumar-pandey?style=flat-square&color=7C3AED&labelColor=0D1117&logo=github" alt="GitHub followers" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey&v=3" alt="Profile views" />
 </p>
+
 
 ---
 
