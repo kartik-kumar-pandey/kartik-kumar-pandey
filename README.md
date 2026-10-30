@@ -210,8 +210,8 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&ring_color=7C3AED" />
-  <img height="180" alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
+  <img height="180" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&ring_color=7C3AED" />
+  <img height="180" alt="Most-used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
 </p>
 
 <p align="center">
