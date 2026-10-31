@@ -8,19 +8,19 @@
 <line x1="220" y1="185" x2="220.0" y2="70.0" stroke="#d0d7de"/>
 <text x="220.0" y="43.6" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#24292f">JavaScript</text>
 <line x1="220" y1="185" x2="319.6" y2="127.5" stroke="#d0d7de"/>
-<text x="342.5" y="114.3" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#24292f">Jupyter Notebook</text>
+<text x="342.5" y="114.3" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#24292f">Python</text>
 <line x1="220" y1="185" x2="319.6" y2="242.5" stroke="#d0d7de"/>
-<text x="342.5" y="255.7" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#24292f">Python</text>
+<text x="342.5" y="255.7" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#24292f">Jupyter Notebook</text>
 <line x1="220" y1="185" x2="220.0" y2="300.0" stroke="#d0d7de"/>
 <text x="220.0" y="326.4" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#24292f">TypeScript</text>
 <line x1="220" y1="185" x2="120.4" y2="242.5" stroke="#d0d7de"/>
 <text x="97.5" y="255.7" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#24292f">CSS</text>
 <line x1="220" y1="185" x2="120.4" y2="127.5" stroke="#d0d7de"/>
 <text x="97.5" y="114.3" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#24292f">C++</text>
-<polygon points="220.0,70.0 299.7,139.0 286.7,223.5 220.0,251.7 198.1,197.7 213.0,181.0" fill="#1f6feb" fill-opacity="0.35" stroke="#58a6ff" stroke-width="2.5"/>
+<polygon points="220.0,70.0 317.6,128.7 299.7,231.0 220.0,251.7 198.1,197.7 213.0,181.0" fill="#1f6feb" fill-opacity="0.35" stroke="#58a6ff" stroke-width="2.5"/>
 <circle cx="220.0" cy="70.0" r="4" fill="#58a6ff"/>
-<circle cx="299.7" cy="139.0" r="4" fill="#58a6ff"/>
-<circle cx="286.7" cy="223.5" r="4" fill="#58a6ff"/>
+<circle cx="317.6" cy="128.7" r="4" fill="#58a6ff"/>
+<circle cx="299.7" cy="231.0" r="4" fill="#58a6ff"/>
 <circle cx="220.0" cy="251.7" r="4" fill="#58a6ff"/>
 <circle cx="198.1" cy="197.7" r="4" fill="#58a6ff"/>
 <circle cx="213.0" cy="181.0" r="4" fill="#58a6ff"/>
